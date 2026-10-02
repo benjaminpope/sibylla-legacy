@@ -4,6 +4,8 @@
 [![automated tests](https://github.com/benjaminpope/sibylla/actions/workflows/tests.yml/badge.svg)](https://github.com/benjaminpope/sibylla/actions/workflows/tests.yml)
 [![Documentation](https://github.com/benjaminpope/sibylla/actions/workflows/documentation.yml/badge.svg)](https://github.com/benjaminpope/sibylla/actions/workflows/documentation.yml)
 
+Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω
+
 Gradient Descent Image Reconstruction
 
 Contributors: [Louis Desdoigts](https://github.com/LouisDesdoigts), [Benjamin Pope](https://github.com/benjaminpope)
